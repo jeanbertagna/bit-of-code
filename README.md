@@ -4,6 +4,4 @@
 
 # Node
 
-# Go
-
 # Kotlin
